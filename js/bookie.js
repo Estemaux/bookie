@@ -1,4 +1,4 @@
-// Extracting users and ratings from more than 50 users
+// Extracting users and ratings from more than 50 users;
 
 // document.querySelector("#ratings").onclick = function()
 // {
